@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Navid
+
 #### Back-End Developer
 💻 Programmer with experience in developing modern software applications using C# 11 and .NET Core 7
 
