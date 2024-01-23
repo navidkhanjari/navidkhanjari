@@ -1,6 +1,6 @@
 
 #### Back-End Developer
-💻 Programmer with experience in developing modern software applications using C# 11 and .NET Core 7
+💻 Programmer with experience in developing modern software applications using C# and .NET Core 
 
 Skills: .net core / #C  
 
