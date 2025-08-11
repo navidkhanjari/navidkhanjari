@@ -2,7 +2,8 @@
 #### Back-End Developer
 💻 Programmer with experience in developing modern software applications using C# and .NET Core 
 
-Skills: .net core / #C  
+back-end :using .net core / #C 
+front-end :using tailwind / react & next.js
 
 - 📫 How to reach me: navidkhanjari72@gmail.com  
 
